@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/banner.png" alt="SecurOS Logo">
+  <img src="assets/banner.png" alt="SecurOS Logo">
 </p>
 
 <p align="center">
